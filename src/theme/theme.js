@@ -1,0 +1,103 @@
+/* eslint-disable */
+import {
+  orangeThemeboy,
+  orangeThemegirl,
+  pinkThemeboy,
+  pinkThemegirl,
+  eduOrange,
+  eduPink,
+  expOrange,
+  expPink,
+  contactsOrange,
+  contactsPink,
+} from "./images";
+
+
+
+export const orangeThemeLight = {
+    type: 'light',
+    primary: '#f56539',
+    primary400: '#ff764d',
+    primary600: '#fa5624',
+    primary80: '#f56539cc',
+    primary50: '#f5653980',
+    primary30: '#f565394d',
+    secondary: '#eaeaea',
+    secondary70: '#eaeaeab3',
+    secondary50: '#eaeaea80',
+    tertiary: '#212121',
+    tertiary80: '#212121cc',
+    tertiary70: '#212121b3',
+    tertiary50: '#21212180',
+    aboutimg1: orangeThemeboy,
+    aboutimg2: orangeThemegirl,
+    eduimg: eduOrange,
+    expimg: expOrange,
+    contactsimg: contactsOrange
+}
+export const orangeThemeDark = {
+    type: 'dark',
+    primary: '#f56539',
+    primary400: '#ff764d',
+    primary600: '#fa5624',
+    primary80: '#f56539cc',
+    primary50: '#f5653980',
+    primary30: '#f565394d',
+    secondary: '#212121',
+    secondary70: '#212121b3',
+    secondary50: '#21212180',
+    tertiary: '#eaeaea',
+    tertiary80: '#eaeaeacc',
+    tertiary70: '#eaeaeab3',
+    tertiary50: '#eaeaea80',
+    aboutimg1: orangeThemeboy,
+    aboutimg2: orangeThemegirl,
+    eduimg: eduOrange,
+    expimg: expOrange,
+    contactsimg: contactsOrange,
+    background:"#212121",
+}
+
+export const pinkThemeLight = {
+    type: 'light',
+    primary: '#ff4f93',
+    primary400: '#e56f9d',
+    primary600: '#e14381',
+    primary80: '#ff4f93cc',
+    primary50: '#ff4f9380',
+    primary30: '#ff4f934d',
+    secondary: '#eaeaea',
+    secondary70: '#eaeaeab3',
+    secondary50: '#eaeaea80',
+    tertiary: '#212121',
+    tertiary80: '#212121cc',
+    tertiary70: '#212121b3',
+    tertiary50: '#21212180',
+    aboutimg1: pinkThemeboy,
+    aboutimg2: pinkThemegirl,
+    eduimg: eduPink,
+    expimg: expPink,
+    contactsimg: contactsPink
+}
+export const pinkThemeDark = {
+    type: 'dark',
+    primary: '#ff4f93',
+    primary400: '#e56f9d',
+    primary600: '#e14381',
+    primary80: '#ff4f93cc',
+    primary50: '#ff4f9380',
+    primary30: '#ff4f934d',
+    secondary: '#212121',
+    secondary70: '#212121b3',
+    secondary50: '#21212180',
+    tertiary: '#eaeaea',
+    tertiary80: '#eaeaeacc',
+    tertiary70: '#eaeaeab3',
+    tertiary50: '#eaeaea80',
+    aboutimg1: pinkThemeboy,
+    aboutimg2: pinkThemegirl,
+    eduimg: eduPink,
+    expimg: expPink,
+    contactsimg: contactsPink
+}
+
