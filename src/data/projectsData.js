@@ -5,6 +5,8 @@ import image2 from "../assets/svg/projects/Capture2.PNG";
 import image3 from "../assets/svg/projects/Capture3.PNG";
 import image4 from "../assets/svg/projects/Capture4.PNG";
 import image5 from "../assets/svg/projects/capture6.jpg";
+import image6 from "../assets/svg/projects/image10.png";
+
 
 export const projectsData = [
   {
@@ -15,7 +17,7 @@ export const projectsData = [
     tags: ["React", "NodeJs", "Express", "Graphql", "CSS", "Bootstrap", "Apollo", "Stripe", "JWT", "Redux", "MongoDB"],
     code: "https://github.com/fatimazahra199/MERN_STACKP",
     demo: "https://delishia-app.vercel.app/",
-    image: image5,
+    image: image6,
   },
   {
     id: 2,
