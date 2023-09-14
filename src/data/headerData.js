@@ -1,5 +1,5 @@
-import resume from '../assets/pdf/myCv.pdf'
-import profile from '../assets/png/me.png'
+import resume from "../assets/pdf/myCv.pdf";
+import profile from "../assets/png/profile_me.png";
 
 export const headerData = {
   name: "Fatima Zahra Faryat",
